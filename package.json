@@ -1,5 +1,5 @@
 {
-  "name": "termux-wabot",
+  "name": "MarszzZ BotZ",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "MhankBarBar",
+  "author": "Marsel Gamtenk:v",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
